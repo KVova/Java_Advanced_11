@@ -1,6 +1,5 @@
 package volodymyr.domain;
 
-//this is user model
 public class User {
 
 	private Integer id;
